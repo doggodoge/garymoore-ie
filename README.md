@@ -1,4 +1,6 @@
-# garymoore.ie Simple static website 🌍
+Archived on GitHub and moved to https://git.sr.ht/~gary_moore/garymoore-ie
+
+    # garymoore.ie Simple static website 🌍
 
 This is my personal website. For now it's a simple combo of HTML + CSS. I want to get a static site generator on the go to publish a blog.
 
